@@ -5,7 +5,7 @@
       <% data.users.each do |user| %>
         <li>
           <% link_to "https://kitt.lewagon.com/alumni/#{user.github_nickname}", target: "_blank" do %>
-            <%= image_tag "#{user.github_nickname}.jpg", class: "img-circle" %>
+            <%= image_tag "https://kitt.lewagon.com/placeholder/users/#{user.github_nickname}", class: "img-circle" %>
           <% end %>
           <h2><%= user.name %></h2>
           <p>
