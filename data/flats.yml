@@ -35,8 +35,8 @@ upclelia:
   rating: 5
 cboki:
   name: "Clément's home"
-  description: "Cosy duplex in Sao Paulo"
-  city_name: "Sao Paulo, Brazil"
-  city_slug: "sao-paulo"
+  description: "Huge flat in Rio de Janeiro"
+  city_name: "Rio de Janeiro, Brazil"
+  city_slug: "rio"
   wifi: true
   rating: 5
