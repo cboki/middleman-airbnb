@@ -23,15 +23,17 @@
 }
 .card-description {
   position: absolute;
-  bottom: 10px;
+  bottom: 15px;
   left: 10px;
+
   h2 {
     font-size: 24px;
+    margin-bottom: 5px;
   }
   p {
     font-size: 14px;
     opacity: 0.7;
-    font-weight: lighter;
+    margin-bottom: 5px;
   }
 }
 .card-link {
@@ -46,4 +48,17 @@
   &:hover {
     opacity: 0.1;
   }
+}
+.card-rating {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.yellow-star {
+  color: $yellow;
+}
+
+.grey-star {
+  color: $light-gray;
 }
