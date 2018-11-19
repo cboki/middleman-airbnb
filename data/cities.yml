@@ -1,0 +1,18 @@
+- name: Copenhague
+  address: "à Copenhague"
+  picture: https://kitt.lewagon.com/placeholder/cities/copenhagen
+- name: Paris
+  address: "à Paris"
+  picture: https://kitt.lewagon.com/placeholder/cities/paris
+- name: Rio
+  address: "Avenida Atlântica"
+  picture: https://kitt.lewagon.com/placeholder/cities/rio
+- name: Sao Paulo
+  address: "Vila Madalena"
+  picture: https://kitt.lewagon.com/placeholder/cities/sao-paulo
+- name: Berlin
+  address: "Checkpoint charlie"
+  picture: https://kitt.lewagon.com/placeholder/cities/berlin
+- name: Barcelona
+  address: "Las Remblas"
+  picture: https://kitt.lewagon.com/placeholder/cities/barcelona
